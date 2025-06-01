@@ -1,0 +1,140 @@
+To face the global sustainability issues arising from rapid industry 
+development and population increase, many efforts have been made to develop new 
+materials and technologies toward renewable energy and environmental improvement. 
+Zeolites are a family of crystalline materials with orderly distributed micropores 
+in molecular dimensions. As the most important solid catalysts used in traditional 
+petrochemical industries, zeolites are also finding promising applications in many 
+sustainable processes given their unique shape selectivity, adsorption and ion-exchange 
+capability, high hydrothermal stability, tunable acidity and polarity, and low production costs. 
+In this review, we present the state-of-the-art applications of zeolites as potential solutions 
+to the sustainability issues, including biomass conversion, fuel cells, thermal energy storage, 
+CO2 capture and conversion, air-pollution remediation, and water purification, etc.
+This review highlights recent developments in the synthesis and unconventional applications 
+of nanosized microporous crystals including framework (zeolites) and layered (clays) type 
+materials. Owing to their microporous nature nanosized zeolites and clays exhibit novel 
+properties, different from those of bulk materials. The factors controlling the formation 
+of nanosized microporous crystals are first revised. The most promising approaches from the 
+viewpoint of large-scale production of nanosized zeolites and clays are discussed in depth. 
+The preparation and advanced applications of nanosized zeolites and clays in free (suspension 
+and powder forms) and fixed (films) forms are summarized. Further the review emphasises 
+the non-conventional applications of new porous materials. A comprehensive analysis of the 
+emerging applications of microporous nanosized crystals in the field of semiconductor industry, 
+optical materials, chemical sensors, medicine, cosmetics, and food industry is presented. 
+Finally, the future needs and perspectives of nanosized microporous materials (zeolites 
+and clays) are addressed.
+Zeolites, owing to their great variety and complexity in structure and wide applications 
+in chemistry, have long been the hot topic in chemical research. This perspective first 
+presents a short retrospect of theoretical investigations on zeolites using the tools from 
+classical force fields to quantum mechanics calculations and to the latest machine learning 
+(ML) potential simulations. ML potentials as the next- generation technique for atomic 
+simulation open new avenues to simulate and interpret zeolite systems and thus hold great 
+promise for finally predicting the structure–functionality relation of zeolites. Recent 
+advances using ML potentials are then summarized from two main aspects: the origin of 
+zeolite stability and the mechanism of zeolite-related catalytic reactions. 
+We also discussed the possible scenarios of ML potential application aiming to provide 
+instantaneous and easy access of zeolite properties. These advanced applications could 
+now be accomplished by combining cloud-computing-based techniques with ML potential-based 
+atomic simulations. The future development of ML potentials for zeolites in the respects 
+of improving the calculation accuracy, expanding the application scope and constructing 
+the zeolite-related datasets is finally outlooked.
+Zeolites are inorganic materials known for their diversity of applications, 
+synthesis conditions, and resulting polymorphs. Although their synthesis is 
+controlled both by inorganic and organic synthesis conditions, computational 
+studies of zeolite synthesis have focused mostly on the design of organic 
+structure- directing agents (OSDAs). In this work, we combine distances between 
+crystal structures and machine learning (ML) to create inorganic synthesis maps in zeolites. 
+Starting with 253 known zeolites, we show how the continuous distances between frameworks 
+reproduce inorganic synthesis conditions from the literature without using labels such as 
+building units. An unsupervised learning analysis shows that neighboring zeolites according 
+to two different representations often share similar inorganic synthesis conditions, even in 
+OSDA-based routes. In combination with ML classifiers, we find synthesis-structure relationships 
+for 14 common inorganic conditions in zeolites, namely Al, B, Be, Ca, Co, F, Ga, Ge, K, Mg, Na, 
+P, Si, and Zn. By explaining the model predictions, we demonstrate how (dis)similarities towards 
+known structures can be used as features for the synthesis space, thus quantifying the intuition 
+that similar structures often share inorganic synthesis routes. Finally, we show how these 
+methods can be used to predict inorganic synthesis conditions for unrealized frameworks in 
+hypothetical databases and interpret the outcomes by extracting local structural patterns 
+from zeolites. In combination with OSDA design, this work can accelerate the exploration of 
+the space of synthesis conditions for zeolites.
+We present a database of computationally predicted zeolite-like materials. 
+The materials were identified by a Monte Carlo search of Si atom positions as 
+the number of unique atoms, density, space group, and unit cell of the crystalline 
+material was systematically explored. Over 2.7M unique structures were identified, 
+with roughly 10% within the +30 kJ/mol Si energetic band above R-quartz in which the known 
+zeolites lie. Predicted structures within this band have geometric and topological 
+characteristics similar to that of the known zeolites. Known zeolites are shown to lie 
+on the low-density edge of the distribution of predicted structures. Dielectric constants 
+and X-ray powder diffraction patterns are calculated. Strategies for chemical synthesis of 
+these materials are discussed, a low-density subset of the materials is identified as 
+particularly interesting, and the complementarity of these materials to high-throughput 
+methods is discussed. These structures have been deposited in two publicly available databases.
+Zeolites are porous, aluminosilicate materials with
+many industrial and “green” applications. Despite their industrial
+relevance, many aspects of zeolite synthesis remain poorly
+understood requiring costly trial and error synthesis. In this
+paper, we create natural language processing techniques and text
+markup parsing tools to automatically extract synthesis informa-
+tion and trends from zeolite journal articles. We further engineer a
+data set of germanium-containing zeolites to test the accuracy of
+the extracted data and to discover potential opportunities for
+zeolites containing germanium. We also create a regression model for a 
+zeolite’s framework density from the synthesis conditions. 
+This model has a cross-validated root mean squared error of 0.98 T/1000 Å3, 
+and many of the model decision boundaries correspond to known synthesis heuristics in 
+germanium-containing zeolites. We propose that this automatic data extraction can be applied 
+to many different problems in zeolite synthesis and enable novel zeolite morphologies.
+This preamble to a well-known television series captures the challenge encountered not only in 
+space travel adventures, but also in the field of porous materials, which aims to control the size,
+shape and uniformity of the porous space and the atoms and molecules that define it. 
+The past decade has seen significant advances in the ability to fabricate new porous 
+solids with ordered structures from a wide range of different materials. 
+This has resulted in materials with unusual properties and broadened their application 
+range beyond the traditional use as catalysts and adsorbents. In fact, porous materials 
+now seem set to contribute to developments in areas ranging from microelectronics to medical 
+diagnosis.
+Small differences between the lattice energies of different zeolites suggest that 
+kinetic factors are of major importance in controlling zeolite nucleation. 
+Thus, it is critical to control the nucleation kinetics in order to obtain a 
+desired microporous material. Here, we demonstrate how careful investigation of the 
+very early stages of zeolite crystallization in colloidal systems can provide access 
+to important nanoscale zeolite phases while avoiding the use of expensive organic templates. 
+We report the effective synthesis of ultrasmall (6- to 15-nanometer) crystals of the 
+large-pore zeolite EMT from template-free colloidal precursors at low temperature (30°C) 
+and very high yield.
+Zeolites, nanoporous aluminosilicates with well-
+defined porous structures, are versatile materials with applications
+in catalysis, gas separation, and ion exchange. Hydrothermal
+synthesis is widely used for zeolite production, offering control
+over composition, crystallinity, and pore size. However, the
+intricate interplay of synthesis parameters necessitates a compre-
+hensive understanding of synthesis−structure relationships to
+optimize the synthesis process. Hitherto, public zeolite synthesis
+databases only contain a subset of parameters and are small in
+scale, comprising up to a few thousand synthesis routes. We
+present ZeoSyn, a dataset of 23,961 zeolite hydrothermal synthesis
+routes, encompassing 233 zeolite topologies and 921 organic
+structure-directing agents (OSDAs). Each synthesis route com-
+prises comprehensive synthesis parameters: 1) gel composition, 2) reaction conditions, 3) 
+OSDAs, and 4) zeolite products. Using ZeoSyn, we develop a machine learning classifier to 
+predict the resultant zeolite given a synthesis route with >70% accuracy. 
+We employ SHapley Additive exPlanations (SHAP) to uncover key synthesis parameters 
+for >200 zeolite frameworks. We introduce an aggregation approach to extend SHAP 
+to all building units. We demonstrate applications of this approach to phase-selective 
+and intergrowth synthesis. This comprehensive analysis illuminates the synthesis 
+parameters pivotal in driving zeolite crystallization, offering the potential to guide 
+the synthesis of desired zeolites.
+It is shown that Machine Learning (ML) algorithms can usefully capture the effect of crystallization 
+composition and conditions (inputs) on key micro- structural characteristics (outputs) of 
+faujasite type zeolites (structure types FAU, EMT, and their intergrowths), which are widely 
+used zeolite catalysts and adsorbents. The utility of ML (in particular, Geometric Harmonics) 
+toward learning input-output relationships of interest is demonstrated, and a com- parison 
+with Neural Networks and Gaussian Process Regression, as alternative approaches, is provided. 
+Through ML, synthesis conditions were identified to enhance the Si/Al ratio of high purity 
+FAU zeolite to the hitherto highest level (i.e., Si/Al = 3.5) achieved via direct (not seeded), 
+and organic structure- directing-agent-free synthesis from sodium aluminosilicate sols. 
+The analysis of the ML algorithms’ results offers the insight that reduced Na2O content is 
+key to formulating FAU materials with high Si/Al ratio. An acid catalyst pre- pared by partial 
+ion exchange of the high-Si/Al-ratio FAU (Si/Al = 3.5) exhibits improved proton reactivity 
+(as well as specific activity, per unit mass of cata- lyst) in propane cracking and 
+dehydrogenation compared to the catalyst prepared from the previously reported highest 
+Si/Al ratio (Si/Al = 2.8).
